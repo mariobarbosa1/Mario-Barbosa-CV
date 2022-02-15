@@ -1,0 +1,32 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.perfil{
+
+    margin-top: 50px;
+}
+
+.awards{
+
+    margin-bottom: 50px;
+}
+h2{ 
+   color: #313131;
+   padding-top: 10px;
+   padding-bottom: 5px;
+}
+
+h4{ 
+    color: #313131;
+    padding-top: 20px;
+   
+ } 
+
+.strong{
+    color: #313131;
+    padding-top: 20px;
+   
+}
+
